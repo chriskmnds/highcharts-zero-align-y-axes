@@ -6,22 +6,21 @@ Highcharts extension that zero-aligns the scales of primary and secondary y-axes
 
 The extension adds a new tick positioner that aligns the scales of primary and secondary y-axes. Defaults to a minimal tick positioner in case of a single y-axis. Axes are aligned as follows:
 
+### All-positive scales
 
-### All-negative scales
+i.e. scales whose min max values are both +ve.
 
-i.e. scales whose min max values are both -ve.
-
-**Alignment**: Zero (0) set at the top of the chart. Consider the example:
+**Alignment**: Zero (0) set at the bottom of the chart. Consider the example:
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
 ![highcharts chart](/snapshots/example_1_original.png "Original Chart") | ![highcharts chart](/snapshots/example_1_extended.png "Extended Chart")
 
-### All-positive scales
+### All-negative scales
 
-i.e. scales whose min max values are both +ve.
+i.e. scales whose min max values are both -ve.
 
-**Alignment**: Zero (0) set at the bottom of the chart.
+**Alignment**: Zero (0) set at the top of the chart.
 
 ### At least one y-axis with both -ve and +ve values
 
