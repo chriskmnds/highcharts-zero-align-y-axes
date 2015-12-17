@@ -14,7 +14,7 @@ i.e. scales whose min max values are both +ve.
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
-![highcharts chart](/snapshots/example_1_original.png "Original Chart") | ![highcharts chart](/snapshots/example_1_extended.png "Extended Chart")
+![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_original.png "Original Chart") | ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")
 
 ### All-negative scales
 
