@@ -13,7 +13,8 @@
 		}
 	],
 	"dependencies": {
-		"highcharts": "4.1.7"
+		"highcharts": "4.1.7",
+		"jquery": "1.9.1"
 	},
 	"type": "plugin",
 	"description": "The extension adds a new tick positioner that aligns the scales of primary and secondary y-axes. Defaults to a minimal tick positioner in case of a single y-axis.",
