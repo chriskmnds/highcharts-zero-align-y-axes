@@ -1,0 +1,37 @@
+{
+	"name": "highcharts-zero-align-y-axes",
+	"version": "1.0",
+	"title": "Zero-align y-axes",
+	"author": {
+		"name": "PortfolioStrat team",
+		"url": "http://portfoliostrat.com"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://opensource.org/licenses/MIT"
+		}
+	],
+	"dependencies": {
+		"highcharts": "4.1.7"
+	},
+	"type": "plugin",
+	"description": "The extension adds a new tick positioner that aligns the scales of primary and secondary y-axes. Defaults to a minimal tick positioner in case of a single y-axis.",
+	"keywords": [
+		"plugin",
+		"tick-positioner",
+		"zero-align-scales",
+		"alignment"
+	],
+	"demo": [
+		"https://jsfiddle.net/2m59hv4j/",
+		"http://plnkr.co/edit/rwanoyydu6LbDBx2lf1l?p=preview"
+	],
+	"maintainers": [
+		{
+			"name": "Christos Koumenides",
+			"email": "chriskmnds@gmail.com",
+			"url": ""
+		}
+	]	
+}
