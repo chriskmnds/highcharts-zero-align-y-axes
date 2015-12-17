@@ -30,7 +30,7 @@ i.e. primary y: [min:-ve, max:+ve], secondary y2: [min:-ve, max:+ve].
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
-![highcharts chart](/snapshots/example_2_original.png "Original Chart") | ![highcharts chart](/snapshots/example_2_extended.png "Extended Chart")
+![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_2_original.png "Original Chart") | ![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_2_extended.png "Extended Chart")
 
 ### One y-axis with all -ve values and the other with both -ve and +ve values
 
@@ -40,7 +40,7 @@ i.e. primary y: [min:-ve, max:-ve], secondary y2: [min:-ve, max:+ve].
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
-![highcharts chart](/snapshots/example_3_original.png "Original Chart") | ![highcharts chart](/snapshots/example_3_extended.png "Extended Chart")
+![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_3_original.png "Original Chart") | ![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_3_extended.png "Extended Chart")
 
 ### Non-overlaping scales 
 
@@ -50,7 +50,7 @@ i.e. scales that are in the opposite extremes e.g. primary y: [min:-ve, max:-ve]
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
-![highcharts chart](/snapshots/example_4_original.png "Original Chart") | ![highcharts chart](/snapshots/example_4_extended.png "Extended Chart")
+![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_4_original.png "Original Chart") | ![highcharts chart](| ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_1_extended.png "Extended Chart")/snapshots/example_4_extended.png "Extended Chart")
 
 
 ## Usage/Demo
