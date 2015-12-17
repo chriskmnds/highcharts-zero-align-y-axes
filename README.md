@@ -30,7 +30,7 @@ i.e. primary y: [min:-ve, max:+ve], secondary y2: [min:-ve, max:+ve].
 
 Original Chart             |  Extended Chart
 :-------------------------:|:-------------------------:
-![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_2_original.png "Original Chart") | ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/example_2_extended.png "Extended Chart")
+![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_2_original.png "Original Chart") | ![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-zero-align-y-axes/master/snapshots/example_2_extended.png "Extended Chart")
 
 ### One y-axis with all -ve values and the other with both -ve and +ve values
 
