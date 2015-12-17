@@ -1,9 +1,9 @@
 {
 	"name": "highcharts-zero-align-y-axes",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"title": "Zero-align y-axes",
 	"author": {
-		"name": "PortfolioStrat team",
+		"name": "PortfolioStrat",
 		"url": "http://portfoliostrat.com"
 	},
 	"licenses": [
