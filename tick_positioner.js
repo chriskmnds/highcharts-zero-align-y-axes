@@ -13,6 +13,9 @@
       this.multiple = multiple || false;
 
       return function(min, max) {
+        if (typeof min === 'undefined' || min === null || typeof max === 'undefined' || max === null) {
+          return;
+        }
         var chart = this.chart;
 
         if (!multiple || !_self.zero_align) {
