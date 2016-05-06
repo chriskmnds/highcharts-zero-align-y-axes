@@ -1,10 +1,10 @@
 {
 	"name": "Zero-align y-axes",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"title": "Zero-align y-axes",
 	"author": {
-		"name": "PortfolioStrat",
-		"url": "http://portfoliostrat.com"
+		"name": "Christos Koumenides",
+		"url": "https://github.com/chriskmnds"
 	},
 	"licenses": [
 		{
@@ -32,7 +32,7 @@
 		{
 			"name": "Christos Koumenides",
 			"email": "chriskmnds@gmail.com",
-			"url": "https://github.com/PortfolioStrat"
+			"url": "https://github.com/chriskmnds"
 		}
 	]	
 }
