@@ -1,9 +1,9 @@
 {
 	"name": "Zero-align y-axes",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"title": "Zero-align y-axes",
 	"author": {
-		"name": "Chris",
+		"name": "chris",
 		"url": "https://github.com/chriskmnds"
 	},
 	"licenses": [
