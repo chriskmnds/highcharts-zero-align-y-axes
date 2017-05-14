@@ -1,6 +1,6 @@
 {
   "name": "highcharts-zero-align-y-axes",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "Highcharts extension that zero-aligns the scales of primary and secondary y-axes.",
   "main": "tick_positioner.js",
   "scripts": {
