@@ -7,7 +7,10 @@
   ],
   "license": "MIT",
   "keywords": [
-    "highcharts"
+    "highcharts",
+    "tick-positioner",
+    "plugin",
+    "alignment"
   ],
   "homepage": "https://github.com/chriskmnds/highcharts-zero-align-y-axes",
   "ignore": [

@@ -11,7 +11,10 @@
     "url": "git+https://github.com/chriskmnds/highcharts-zero-align-y-axes.git"
   },
   "keywords": [
-    "highcharts"
+    "highcharts",
+    "tick-positioner",
+    "plugin",
+    "alignment"
   ],
   "author": "chriskmnds",
   "license": "MIT",
